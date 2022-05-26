@@ -1,0 +1,22 @@
+id: D18119596
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-11-12T09:42:08+00:00'
+last_modified: '2022-05-26T10:11:07.981656+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    fe9f:
+      image_group_id: I1PD95863
+      title: བྱང་ཆུབ་སེམས་ཀྱི་འགྲེལ་པ།
+      total_pages: 1634
+      order: 18
+      base_file: fe9f.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
